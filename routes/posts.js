@@ -1,3 +1,4 @@
+// Import express Router
 const router = require("express").Router();
 
 // Define the data function for creating a blog post
