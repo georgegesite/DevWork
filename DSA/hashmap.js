@@ -9,6 +9,7 @@ hashmap["number 1"]  = "1"
 const temp  ="number 1";
 const temp2 = "1";
 console.log(hashmap);
+
 //check if can use key or value for conditional statements
 console.log(temp in hashmap);
 console.log(temp2 in hashmap);

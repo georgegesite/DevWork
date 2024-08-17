@@ -5,3 +5,5 @@ Doing dev things when schedule becomes free at work
 - Docker
 - React
 - etc
+
+https://codingfantasy.com/?ref=dailydev
